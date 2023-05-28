@@ -1,6 +1,12 @@
 # Phase_1_Project
 # Overview
+<<<<<<< HEAD
 The film industry has been one of the fastest growing markets in recent years. According to [Global News Wire](https://www.globenewswire.com/news-release/2022/03/08/2398616/0/en/Film-And-Video-Global-Market-Report-2022.html)" the global movies and entertainment market size was valued at USD 94.451 Billion in 2022. Movies are a significant part of culture and a major source of entertainment for a large part of the global population and with regards to revenue, the market is predicted to grow to an estimated USD 169.62 Billion by 2030 with a compound annual growth rate of roughly 7.21% between 2023 and 2030.This makes it a valuable investment to consider.
+=======
+The film industry has been one of the fastest growing markets in recent years. According to research by the [Global News Wire](https://www.globenewswire.com/news-release/2022/03/08/2398616/0/en/Film-And-Video-Global-Market-Report-2022.html), the global movies and entertainment market size was valued at USD 94.451 Billion in 2022. Movies are a significant part of culture and a major source of entertainment for a large part of the global population and with regards to revenue, the market is predicted to grow to an estimated USD 169.62 Billion by 2030 with a compound annual growth rate of roughly 7.21% between 2023 and 2030. This makes it a valuable investment to consider.
+
+The movie industry is a highly competitive and complex field that involves various stages of production, including development, pre-production, production, post-production, and distribution. Success in the movie industry depends on factors such as compelling storytelling, engaging characters, high production values, effective marketing, and distribution strategies. Collaboration with experienced professionals, such as writers, directors, producers, and talent agents, is crucial for creating quality films.
+>>>>>>> 85272af128fd07cf957dbac9475b56149a67d18f
 
 # Business Understanding
 The growth in popularity of original video content has inspired Microsoft to create a new movie studio to take advantage of this opportunity. However, this may pose a challenge as it is a fairly new industry for them and they lack the necessary insights on what movies to create.
@@ -40,7 +46,17 @@ After cleaning the data, the next step in the process was to study the refined d
 ## Data Visualization
 Data visualization played a crucial role in gaining a deeper understanding of the dataset. Bar graphs were utilized to visualize categorical variables, providing a clear representation of the distribution and frequency of different categories. This allowed for easy comparison and identification of any patterns or trends within the data.
 
+https://github.com/JaniceWaihumbu/Phase_1_Project/blob/master/output%201.png
+The bar plot above indicates that there are not significant differences in average ratings across various movie genres. However, it is worth noting that movies that fall under the combination of Adventure, Animation, and Comedy have the highest average rating. As does the Documentary category. On the other hand, the genres of Horror and Thriller, as well as History and a combination of Comedy and Drama, tend to have lower average ratings.
 
+https://github.com/JaniceWaihumbu/Phase_1_Project/blob/master/output%202.png
+The bar plot above indicates that the movie genre with the highest number of votes is the Drama genre, indicating that it has a larger audience base.
+
+https://github.com/JaniceWaihumbu/Phase_1_Project/blob/master/output%203.png
+The data points are quite spread out in the scatter plot above. Which indicates there is no trend to the data and thus, there is no correlation between Runtime in Minutes and Average Rating.
+
+https://github.com/JaniceWaihumbu/Phase_1_Project/blob/master/output%204.png
+"Toy Story 3" exhibits the lowest foreign gross income but the highest domestic income. Conversely, "Shrek Forever After" showcases the lowest domestic income but the highest foreign income. Therefore, when Microsoft explores movie creation opportunities, it becomes crucial to prioritize whether they aim to cater to the foreign or domestic market. By doing so, they can determine the type of movie that would potentially yield the highest income.
 
 # Conclusions
 >From the data analysis above it is clear that movies that fall under the combination of Adventure, Animation, and Comedy have the highest average rating. As does the Documentary category. On the other hand, the genres of Horror and Thriller, as well as History and a combination of Comedy and Drama, tend to have lower average ratings.

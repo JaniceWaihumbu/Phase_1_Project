@@ -40,7 +40,17 @@ After cleaning the data, the next step in the process was to study the refined d
 ## Data Visualization
 Data visualization played a crucial role in gaining a deeper understanding of the dataset. Bar graphs were utilized to visualize categorical variables, providing a clear representation of the distribution and frequency of different categories. This allowed for easy comparison and identification of any patterns or trends within the data.
 
+https://github.com/JaniceWaihumbu/Phase_1_Project/blob/master/output%201.png
+The bar plot above indicates that there are not significant differences in average ratings across various movie genres. However, it is worth noting that movies that fall under the combination of Adventure, Animation, and Comedy have the highest average rating. As does the Documentary category. On the other hand, the genres of Horror and Thriller, as well as History and a combination of Comedy and Drama, tend to have lower average ratings.
 
+https://github.com/JaniceWaihumbu/Phase_1_Project/blob/master/output%202.png
+The bar plot above indicates that the movie genre with the highest number of votes is the Drama genre, indicating that it has a larger audience base.
+
+https://github.com/JaniceWaihumbu/Phase_1_Project/blob/master/output%203.png
+The data points are quite spread out in the scatter plot above. Which indicates there is no trend to the data and thus, there is no correlation between Runtime in Minutes and Average Rating.
+
+https://github.com/JaniceWaihumbu/Phase_1_Project/blob/master/output%204.png
+"Toy Story 3" exhibits the lowest foreign gross income but the highest domestic income. Conversely, "Shrek Forever After" showcases the lowest domestic income but the highest foreign income. Therefore, when Microsoft explores movie creation opportunities, it becomes crucial to prioritize whether they aim to cater to the foreign or domestic market. By doing so, they can determine the type of movie that would potentially yield the highest income.
 
 # Conclusions
 >From the data analysis above it is clear that movies that fall under the combination of Adventure, Animation, and Comedy have the highest average rating. As does the Documentary category. On the other hand, the genres of Horror and Thriller, as well as History and a combination of Comedy and Drama, tend to have lower average ratings.

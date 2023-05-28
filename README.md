@@ -1,8 +1,8 @@
 # Phase_1_Project
 # Overview
 The film industry has been one of the fastest growing markets in recent years. According to research by the [Global News Wire](https://www.globenewswire.com/news-release/2022/03/08/2398616/0/en/Film-And-Video-Global-Market-Report-2022.html), the global movies and entertainment market size was valued at USD 94.451 Billion in 2022. Movies are a significant part of culture and a major source of entertainment for a large part of the global population and with regards to revenue, the market is predicted to grow to an estimated USD 169.62 Billion by 2030 with a compound annual growth rate of roughly 7.21% between 2023 and 2030. This makes it a valuable investment to consider.
-The movie industry is a highly competitive and complex field that involves various stages of production, including development, pre-production, production, post-production, and distribution.
-Success in the movie industry depends on factors such as compelling storytelling, engaging characters, high production values, effective marketing, and distribution strategies. Collaboration with experienced professionals, such as writers, directors, producers, and talent agents, is crucial for creating quality films.
+
+The movie industry is a highly competitive and complex field that involves various stages of production, including development, pre-production, production, post-production, and distribution. Success in the movie industry depends on factors such as compelling storytelling, engaging characters, high production values, effective marketing, and distribution strategies. Collaboration with experienced professionals, such as writers, directors, producers, and talent agents, is crucial for creating quality films.
 
 # Business Understanding
 The growth in popularity of original video content has inspired Microsoft to create a new movie studio to take advantage of this opportunity. However, this may pose a challenge as it is a fairly new industry for them and they lack the necessary insights on what movies to create.
